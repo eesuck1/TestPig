@@ -10,7 +10,11 @@ namespace TestPig
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Vladimir");
+            Math calculator = new Math();
+
+            Console.WriteLine(calculator.Sum(5, 2, 2, 2, 2));
+
+            Console.ReadKey();
         }
     }
 }
