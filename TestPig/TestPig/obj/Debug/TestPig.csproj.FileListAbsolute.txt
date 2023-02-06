@@ -1,0 +1,8 @@
+C:\GitRepos\TestPig\TestPig\TestPig\bin\Debug\TestPig.exe.config
+C:\GitRepos\TestPig\TestPig\TestPig\bin\Debug\TestPig.exe
+C:\GitRepos\TestPig\TestPig\TestPig\bin\Debug\TestPig.pdb
+C:\GitRepos\TestPig\TestPig\TestPig\obj\Debug\TestPig.csproj.AssemblyReference.cache
+C:\GitRepos\TestPig\TestPig\TestPig\obj\Debug\TestPig.csproj.SuggestedBindingRedirects.cache
+C:\GitRepos\TestPig\TestPig\TestPig\obj\Debug\TestPig.csproj.CoreCompileInputs.cache
+C:\GitRepos\TestPig\TestPig\TestPig\obj\Debug\TestPig.exe
+C:\GitRepos\TestPig\TestPig\TestPig\obj\Debug\TestPig.pdb
