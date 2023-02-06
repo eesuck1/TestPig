@@ -10,7 +10,7 @@ namespace TestPig
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Slavik");
+            Console.WriteLine("Hello, Vladimir");
         }
     }
 }
