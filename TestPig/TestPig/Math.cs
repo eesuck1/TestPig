@@ -26,5 +26,18 @@ namespace TestPig
 
             return number * Factorial(number - 1);
         }
+
+        public double Multiplication(params double[] numbers)
+        {
+            double result = 1;
+
+            foreach (double number in numbers)
+            {
+                result *= number;
+            }
+
+            return result;
+        }
+
     }
 }
