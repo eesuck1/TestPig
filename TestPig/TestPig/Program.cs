@@ -12,7 +12,7 @@ namespace TestPig
         {
             Math calculator = new Math();
 
-            Console.WriteLine(calculator.Sum(5, 2, 2, 2, 2));
+            Console.WriteLine(calculator.Multiplication(5, 2));
 
             Console.ReadKey();
         }
